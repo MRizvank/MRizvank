@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **rizvankurungattil@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1pNuOLLv_xni53a2rtT9oXel06ABvRKPv/view?usp=share_link](https://drive.google.com/file/d/1pNuOLLv_xni53a2rtT9oXel06ABvRKPv/view?usp=share_link)
+- 📄 Know about my experiences [Click Here](https://drive.google.com/file/d/1pNuOLLv_xni53a2rtT9oXel06ABvRKPv/view?usp=share_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
