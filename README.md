@@ -1,7 +1,6 @@
 
 
-<p align="left"> <img src="<p align="left"> <img src="https://komarev.com/ghpvc/?username=mrizvank&label=Profile%20views&color=00e600&style=flat" alt="mrizvank" /> </p>
-" alt="bg" /> </p>
+<img src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/167121800/original/91edbdbc9875196cc50f56337f4e1aea00534b12/your-awesome-mern-stack-developer.jpg">
 
 <h1 align="center">Hi 👋, I'm Rizvan</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
