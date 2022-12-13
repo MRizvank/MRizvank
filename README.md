@@ -1,4 +1,8 @@
 
+
+<p align="left"> <img src="<p align="left"> <img src="https://komarev.com/ghpvc/?username=mrizvank&label=Profile%20views&color=00e600&style=flat" alt="mrizvank" /> </p>
+" alt="bg" /> </p>
+
 <h1 align="center">Hi 👋, I'm Rizvan</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
