@@ -31,7 +31,7 @@
 ### Works 💻
   Masai vaccination <a href="https://whimsical-taffy-148619.netlify.app/index.html" target="_blank">click here</a>
   
-  Messho-clone <a href="https://iskra-meesho-clone.netlify.app/index.html">click here </a>
+  Messho-clone <a href="[https://iskra-meesho-clone.netlify.app/index.html](https://meesho-clone-iskra.netlify.app/)">click here </a>
   
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Mrizvank&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
