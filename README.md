@@ -9,7 +9,7 @@
 
 
 
-- 🌱 I’m currently learning **MEARN Stack**
+- 🌱 I’m currently learning **Backend-Development**
 
 - 💬 Ask me about **Javascript**
 
