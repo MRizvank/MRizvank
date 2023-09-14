@@ -9,7 +9,7 @@
 
 
 
-- 🌱 I’m currently learning **Backend-Development**
+- 🌱 I’m currently learning **Full Stack-Development**
 
 - 💬 Ask me about **Javascript**
 
