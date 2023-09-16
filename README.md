@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Full Stack-Development**
 
-- 💬 Ask me about **Javascript**
+- 💬 Ask me about **React**
 
 - 📫 How to reach me **rizvankurungattil@gmail.com**
 
