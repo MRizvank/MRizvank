@@ -3,7 +3,7 @@
 <img align="center" width="100%" src="https://www.simplilearn.com/ice9/free_resources_article_thumb/How_to_Become_a_Back_End_Developer.jpg">
  
 <h1 align="center">Hi 👋, I'm Rizvan K</h1>
-<h2 align="center">A passionate Full-stack developer from India </h2>
+<h2 align="center"> I am A passionate Full-stack developer from India </h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrizvank&label=Profile%20views&color=00e600&style=flat" alt="mrizvank" /> </p>
 
